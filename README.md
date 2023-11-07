@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Adrian and I am a web design enthusiast. ✨💻<br>I'm currently working on a private project, along with school projects. <br>I'm looking to learn from designers all over the world. 🗺️<br>I'm currently learning web development (JavaScript, React, CSS) and desing (Figma, Photoshop).<br>Ask me about UI/UX topics. <br>I'm looking to become an expert in web design. 💪 
+Hi, my name is Adrian and I am a web design enthusiast. ✨💻<br>I'm currently working on a private project, along with school projects. <br>I'm looking to learn from designers all over the world. 🗺️<br>I'm currently learning web development (JavaScript, React, CSS) and design (Figma, Photoshop).<br>Ask me about UI/UX topics. <br>I'm looking to become an expert in web design. 💪 
 
 
 ## 🌐 Socials:
